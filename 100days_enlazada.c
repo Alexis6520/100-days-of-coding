@@ -1,6 +1,3 @@
-/*Autor: Alexis Ortega Matus
-Fecha:14/02/2020
-Generacion de lista de cantidad aleatoria con nodos*/
 #include <stdio.h>
 #include <stdio.h>
 #include <stdlib.h>
