@@ -1,6 +1,3 @@
-/*Alexis Ortega Matus. 09/02/2020.
-En este archivo se aprendió a reservar y ampliar la memoria de un apuntador de manera dinamica. De igual manera se aprendio a definir nuevos
-tipos de variables con estructura*/ 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
